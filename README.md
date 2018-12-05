@@ -24,4 +24,4 @@ Block code:
 s = "Python syntax highlighting"
 print s
 ```
-![](./media/Zyanya.png)
+![](./Media/Zyanya.png)
